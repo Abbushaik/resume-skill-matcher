@@ -1,0 +1,114 @@
+{
+  "roles": {
+    "backend_engineer": {
+      "title": "Backend Engineer",
+      "required_skills": ["python", "sql", "rest api", "git", "linux"],
+      "optional_skills": ["docker", "aws", "redis", "postgresql", "mongodb", "nodejs", "expressjs", "celery", "kafka", "nginx"]
+    },
+    "frontend_engineer": {
+      "title": "Frontend Engineer",
+      "required_skills": ["javascript", "html", "css", "react", "git"],
+      "optional_skills": ["typescript", "nextjs", "tailwind", "redux", "webpack", "vite", "jest", "figma", "graphql", "vue"]
+    },
+    "fullstack_engineer": {
+      "title": "Full Stack Engineer",
+      "required_skills": ["javascript", "html", "css", "nodejs", "sql", "git"],
+      "optional_skills": ["react", "typescript", "mongodb", "expressjs", "rest api", "docker", "aws", "nextjs", "graphql", "redis"]
+    },
+    "python_developer": {
+      "title": "Python Developer",
+      "required_skills": ["python", "sql", "git", "rest api", "linux"],
+      "optional_skills": ["django", "flask", "fastapi", "celery", "redis", "postgresql", "docker", "aws", "pandas", "numpy"]
+    },
+    "java_developer": {
+      "title": "Java Developer",
+      "required_skills": ["java", "springboot", "sql", "git", "rest api"],
+      "optional_skills": ["spring", "hibernate", "maven", "gradle", "docker", "aws", "kafka", "redis", "microservices", "junit"]
+    },
+    "java_backend_engineer": {
+      "title": "Java Backend Engineer",
+      "required_skills": ["java", "springboot", "spring", "sql", "rest api", "git"],
+      "optional_skills": ["hibernate", "docker", "kubernetes", "kafka", "redis", "aws", "microservices"]
+    },
+    "javascript_developer": {
+      "title": "JavaScript Developer",
+      "required_skills": ["javascript", "nodejs", "html", "css", "git"],
+      "optional_skills": ["typescript", "react", "expressjs", "mongodb", "rest api", "webpack", "jest", "vue", "nextjs", "tailwind"]
+    },
+    "nodejs_developer": {
+      "title": "Node.js Developer",
+      "required_skills": ["nodejs", "javascript", "expressjs", "git", "rest api"],
+      "optional_skills": ["mongodb", "sql", "redis", "docker", "aws", "socketio", "jwt", "typescript", "graphql", "kafka"]
+    },
+    "devops_engineer": {
+      "title": "DevOps Engineer",
+      "required_skills": ["docker", "kubernetes", "linux", "git", "ci/cd"],
+      "optional_skills": ["aws", "terraform", "ansible", "jenkins", "nginx", "prometheus", "grafana", "python", "bash", "azure"]
+    },
+    "data_scientist": {
+      "title": "Data Scientist",
+      "required_skills": ["python", "sql", "machine learning", "git", "pandas"],
+      "optional_skills": ["numpy", "scikit-learn", "tensorflow", "pytorch", "tableau", "spark", "aws", "deep learning", "nlp", "mlflow"]
+    },
+    "ml_engineer": {
+      "title": "ML Engineer",
+      "required_skills": ["python", "machine learning", "deep learning", "sql", "git"],
+      "optional_skills": ["tensorflow", "pytorch", "scikit-learn", "mlflow", "docker", "aws", "spark", "kafka", "airflow", "nlp"]
+    },
+    "ai_engineer": {
+      "title": "AI Engineer",
+      "required_skills": ["python", "machine learning", "deep learning", "nlp", "git"],
+      "optional_skills": ["tensorflow", "pytorch", "transformers", "langchain", "openai", "docker", "aws", "mlflow", "fastapi", "vector databases"]
+    },
+    "ai_agent_developer": {
+      "title": "AI Agent Developer",
+      "required_skills": ["python", "nlp", "rest api", "git", "machine learning"],
+      "optional_skills": ["langchain", "openai", "fastapi", "docker", "redis", "postgresql", "celery", "transformers", "vector databases", "aws"]
+    },
+    "mobile_developer": {
+      "title": "Mobile Developer",
+      "required_skills": ["javascript", "react native", "git", "rest api"],
+      "optional_skills": ["android", "ios", "flutter", "firebase", "redux", "expo", "typescript", "nodejs", "aws", "sqlite"]
+    },
+    "android_developer": {
+      "title": "Android Developer",
+      "required_skills": ["java", "android", "git", "rest api"],
+      "optional_skills": ["kotlin", "firebase", "sqlite", "retrofit", "mvvm", "jetpack compose", "aws", "room database", "coroutines", "junit"]
+    },
+    "flutter_developer": {
+      "title": "Flutter Developer",
+      "required_skills": ["flutter", "dart", "git", "rest api"],
+      "optional_skills": ["firebase", "android", "ios", "redux", "sqlite", "aws", "bloc", "provider", "riverpod", "fastapi"]
+    },
+    "go_developer": {
+      "title": "Go Developer",
+      "required_skills": ["golang", "rest api", "sql", "git", "linux"],
+      "optional_skills": ["docker", "kubernetes", "postgresql", "redis", "kafka", "aws", "grpc", "microservices", "prometheus", "nginx"]
+    },
+    "rust_developer": {
+      "title": "Rust Developer",
+      "required_skills": ["rust", "git", "linux", "rest api", "sql"],
+      "optional_skills": ["docker", "kubernetes", "postgresql", "redis", "aws", "grpc", "microservices", "webassembly", "tokio", "actix"]
+    },
+    "data_engineer": {
+      "title": "Data Engineer",
+      "required_skills": ["python", "sql", "spark", "git", "airflow"],
+      "optional_skills": ["kafka", "aws", "postgresql", "mongodb", "docker", "hadoop", "scala", "redshift", "snowflake", "dbt"]
+    },
+    "cloud_engineer": {
+      "title": "Cloud Engineer",
+      "required_skills": ["aws", "docker", "linux", "git", "terraform"],
+      "optional_skills": ["kubernetes", "azure", "gcp", "ansible", "ci/cd", "python", "nginx", "prometheus", "grafana", "jenkins"]
+    },
+    "security_engineer": {
+      "title": "Security Engineer",
+      "required_skills": ["linux", "python", "git", "networking", "sql"],
+      "optional_skills": ["docker", "aws", "kubernetes", "penetration testing", "firewalls", "siem", "encryption", "oauth", "jwt", "bash"]
+    },
+    "blockchain_developer": {
+      "title": "Blockchain Developer",
+      "required_skills": ["solidity", "javascript", "git", "rest api", "sql"],
+      "optional_skills": ["web3", "ethereum", "nodejs", "react", "docker", "aws", "python", "truffle", "hardhat", "ipfs"]
+    }
+  }
+}

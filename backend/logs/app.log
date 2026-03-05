@@ -1,0 +1,769 @@
+2026-03-02 14:47:28,368 | INFO     | main | Starting up — initializing database...
+2026-03-02 14:47:28,382 | INFO     | main | Database ready. Server is live.
+2026-03-02 14:49:27,099 | INFO     | parser.pdf_parser | PDF parsed: 3196 characters extracted from 1 page(s).
+2026-03-02 14:49:27,121 | INFO     | matcher.skill_extractor | Extracted 18 skills: ['algorithms', 'android', 'data structures', 'deep learning', 'expressjs', 'git', 'java', 'javascript', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-02 14:49:27,122 | INFO     | matcher.scoring | Score: 55.56% | Required: 4/6 | Optional: 4/10
+2026-03-02 14:50:50,697 | INFO     | parser.pdf_parser | PDF parsed: 3196 characters extracted from 1 page(s).
+2026-03-02 14:50:50,710 | INFO     | matcher.skill_extractor | Extracted 18 skills: ['algorithms', 'android', 'data structures', 'deep learning', 'expressjs', 'git', 'java', 'javascript', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-02 14:50:50,710 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-02 14:50:50,710 | INFO     | matcher.scoring | Score: 38.71% | Required: 3/5 | Optional: 1/9
+2026-03-02 14:50:50,711 | INFO     | matcher.scoring | Score: 55.56% | Required: 4/6 | Optional: 4/10
+2026-03-02 14:50:50,711 | INFO     | matcher.scoring | Score: 42.42% | Required: 4/6 | Optional: 0/8
+2026-03-02 14:50:50,711 | INFO     | matcher.scoring | Score: 28.81% | Required: 2/5 | Optional: 1/8
+2026-03-02 14:50:50,712 | INFO     | matcher.scoring | Score: 45.76% | Required: 3/5 | Optional: 2/8
+2026-03-02 14:50:50,712 | INFO     | matcher.scoring | Score: 52.54% | Required: 4/5 | Optional: 1/8
+2026-03-02 14:50:50,712 | INFO     | matcher.scoring | Score: 49.09% | Required: 3/4 | Optional: 2/9
+2026-03-02 14:50:50,712 | INFO     | matcher.scoring | Score: 74.58% | Required: 5/5 | Optional: 3/8
+2026-03-02 14:56:08,556 | INFO     | main | Shutting down.
+2026-03-02 14:56:10,686 | INFO     | main | Starting up — initializing database...
+2026-03-02 14:56:10,692 | INFO     | main | Database ready. Server is live.
+2026-03-02 14:56:19,123 | INFO     | main | Shutting down.
+2026-03-02 14:56:21,245 | INFO     | main | Starting up — initializing database...
+2026-03-02 14:56:21,250 | INFO     | main | Database ready. Server is live.
+2026-03-02 14:57:03,271 | INFO     | main | Shutting down.
+2026-03-02 14:57:05,399 | INFO     | main | Starting up — initializing database...
+2026-03-02 14:57:05,404 | INFO     | main | Database ready. Server is live.
+2026-03-02 14:59:53,194 | INFO     | main | Shutting down.
+2026-03-02 14:59:55,373 | INFO     | main | Starting up — initializing database...
+2026-03-02 14:59:55,378 | INFO     | main | Database ready. Server is live.
+2026-03-02 15:46:54,809 | INFO     | main | Shutting down.
+2026-03-02 16:15:38,053 | INFO     | main | Starting up — initializing database...
+2026-03-02 16:15:38,088 | INFO     | main | Database ready. Server is live.
+2026-03-03 14:52:44,898 | INFO     | main | Starting up — initializing database...
+2026-03-03 14:52:44,912 | INFO     | main | Database ready. Server is live.
+2026-03-03 14:53:08,555 | INFO     | parser.pdf_parser | PDF parsed: 3196 characters extracted from 1 page(s).
+2026-03-03 14:53:08,688 | INFO     | matcher.skill_extractor | Extracted 23 skills: ['algorithms', 'android', 'css', 'data structures', 'deep learning', 'expressjs', 'git', 'html', 'java', 'javascript', 'jwt', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'oops', 'postman', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-03 14:53:08,697 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-03 14:53:08,698 | INFO     | matcher.scoring | Score: 61.29% | Required: 5/5 | Optional: 1/9
+2026-03-03 14:53:08,699 | INFO     | matcher.scoring | Score: 75.0% | Required: 6/6 | Optional: 4/10
+2026-03-03 14:53:08,700 | INFO     | matcher.scoring | Score: 42.42% | Required: 4/6 | Optional: 0/8
+2026-03-03 14:53:08,702 | INFO     | matcher.scoring | Score: 28.81% | Required: 2/5 | Optional: 1/8
+2026-03-03 14:53:08,704 | INFO     | matcher.scoring | Score: 45.76% | Required: 3/5 | Optional: 2/8
+2026-03-03 14:53:08,706 | INFO     | matcher.scoring | Score: 52.54% | Required: 4/5 | Optional: 1/8
+2026-03-03 14:53:08,707 | INFO     | matcher.scoring | Score: 49.09% | Required: 3/4 | Optional: 2/9
+2026-03-03 14:53:08,709 | INFO     | matcher.scoring | Score: 74.58% | Required: 5/5 | Optional: 3/8
+2026-03-03 14:53:45,389 | INFO     | parser.pdf_parser | PDF parsed: 2086 characters extracted from 1 page(s).
+2026-03-03 14:53:45,461 | INFO     | matcher.skill_extractor | Extracted 16 skills: ['algorithms', 'c', 'c++', 'css', 'data structures', 'expressjs', 'git', 'html', 'java', 'javascript', 'mongodb', 'nodejs', 'postman', 'python', 'react', 'sql']
+2026-03-03 14:53:45,462 | INFO     | matcher.scoring | Score: 46.15% | Required: 3/5 | Optional: 3/10
+2026-03-03 14:53:45,463 | INFO     | matcher.scoring | Score: 61.29% | Required: 5/5 | Optional: 1/9
+2026-03-03 14:53:45,464 | INFO     | matcher.scoring | Score: 70.83% | Required: 6/6 | Optional: 3/10
+2026-03-03 14:53:45,465 | INFO     | matcher.scoring | Score: 31.82% | Required: 3/6 | Optional: 0/8
+2026-03-03 14:53:45,477 | INFO     | matcher.scoring | Score: 16.95% | Required: 1/5 | Optional: 1/8
+2026-03-03 14:53:45,479 | INFO     | matcher.scoring | Score: 23.73% | Required: 2/5 | Optional: 0/8
+2026-03-03 14:53:45,480 | INFO     | matcher.scoring | Score: 35.59% | Required: 3/5 | Optional: 0/8
+2026-03-03 14:53:45,482 | INFO     | matcher.scoring | Score: 30.91% | Required: 2/4 | Optional: 1/9
+2026-03-03 14:53:45,483 | INFO     | matcher.scoring | Score: 57.63% | Required: 4/5 | Optional: 2/8
+2026-03-03 14:53:54,365 | INFO     | parser.pdf_parser | PDF parsed: 2086 characters extracted from 1 page(s).
+2026-03-03 14:53:54,428 | INFO     | matcher.skill_extractor | Extracted 16 skills: ['algorithms', 'c', 'c++', 'css', 'data structures', 'expressjs', 'git', 'html', 'java', 'javascript', 'mongodb', 'nodejs', 'postman', 'python', 'react', 'sql']
+2026-03-03 14:53:54,430 | INFO     | matcher.scoring | Score: 46.15% | Required: 3/5 | Optional: 3/10
+2026-03-03 14:53:54,431 | INFO     | matcher.scoring | Score: 61.29% | Required: 5/5 | Optional: 1/9
+2026-03-03 14:53:54,433 | INFO     | matcher.scoring | Score: 70.83% | Required: 6/6 | Optional: 3/10
+2026-03-03 14:53:54,434 | INFO     | matcher.scoring | Score: 31.82% | Required: 3/6 | Optional: 0/8
+2026-03-03 14:53:54,436 | INFO     | matcher.scoring | Score: 16.95% | Required: 1/5 | Optional: 1/8
+2026-03-03 14:53:54,437 | INFO     | matcher.scoring | Score: 23.73% | Required: 2/5 | Optional: 0/8
+2026-03-03 14:53:54,439 | INFO     | matcher.scoring | Score: 35.59% | Required: 3/5 | Optional: 0/8
+2026-03-03 14:53:54,440 | INFO     | matcher.scoring | Score: 30.91% | Required: 2/4 | Optional: 1/9
+2026-03-03 14:53:54,441 | INFO     | matcher.scoring | Score: 57.63% | Required: 4/5 | Optional: 2/8
+2026-03-03 14:54:27,546 | INFO     | parser.pdf_parser | PDF parsed: 1807 characters extracted from 1 page(s).
+2026-03-03 14:54:27,619 | INFO     | matcher.skill_extractor | Extracted 12 skills: ['c', 'css', 'expressjs', 'git', 'html', 'java', 'javascript', 'mongodb', 'nodejs', 'python', 'react', 'sql']
+2026-03-03 14:54:27,620 | INFO     | matcher.scoring | Score: 46.15% | Required: 3/5 | Optional: 3/10
+2026-03-03 14:54:27,622 | INFO     | matcher.scoring | Score: 61.29% | Required: 5/5 | Optional: 1/9
+2026-03-03 14:54:27,623 | INFO     | matcher.scoring | Score: 70.83% | Required: 6/6 | Optional: 3/10
+2026-03-03 14:54:27,624 | INFO     | matcher.scoring | Score: 31.82% | Required: 3/6 | Optional: 0/8
+2026-03-03 14:54:27,626 | INFO     | matcher.scoring | Score: 16.95% | Required: 1/5 | Optional: 1/8
+2026-03-03 14:54:27,627 | INFO     | matcher.scoring | Score: 23.73% | Required: 2/5 | Optional: 0/8
+2026-03-03 14:54:27,629 | INFO     | matcher.scoring | Score: 35.59% | Required: 3/5 | Optional: 0/8
+2026-03-03 14:54:27,630 | INFO     | matcher.scoring | Score: 30.91% | Required: 2/4 | Optional: 1/9
+2026-03-03 14:54:27,631 | INFO     | matcher.scoring | Score: 57.63% | Required: 4/5 | Optional: 2/8
+2026-03-03 14:57:38,679 | INFO     | main | Shutting down.
+2026-03-03 15:10:30,797 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:10:30,799 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:16:28,279 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 142 characters.
+2026-03-03 15:16:28,291 | INFO     | matcher.skill_extractor | Extracted 0 skills: []
+2026-03-03 15:16:28,291 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-03 15:16:28,292 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/9
+2026-03-03 15:16:28,292 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/10
+2026-03-03 15:16:28,293 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/8
+2026-03-03 15:16:28,293 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:16:28,293 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:16:28,294 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:16:28,294 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/9
+2026-03-03 15:16:28,294 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:16:30,316 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 142 characters.
+2026-03-03 15:16:30,329 | INFO     | matcher.skill_extractor | Extracted 0 skills: []
+2026-03-03 15:16:30,330 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-03 15:16:30,330 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/9
+2026-03-03 15:16:30,331 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/10
+2026-03-03 15:16:30,331 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/8
+2026-03-03 15:16:30,332 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:16:30,332 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:16:30,332 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:16:30,333 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/9
+2026-03-03 15:16:30,333 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:19:20,679 | INFO     | main | Shutting down.
+2026-03-03 15:19:23,443 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:19:23,445 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:19:23,551 | INFO     | main | Shutting down.
+2026-03-03 15:19:26,199 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:19:26,212 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:19:47,357 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 142 characters.
+2026-03-03 15:19:47,374 | INFO     | matcher.skill_extractor | Extracted 0 skills: []
+2026-03-03 15:19:47,374 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-03 15:19:47,374 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/9
+2026-03-03 15:19:47,375 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/10
+2026-03-03 15:19:47,375 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/8
+2026-03-03 15:19:47,375 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:19:47,376 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:19:47,376 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:19:47,376 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/9
+2026-03-03 15:19:47,377 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:19:48,773 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 142 characters.
+2026-03-03 15:19:48,782 | INFO     | matcher.skill_extractor | Extracted 0 skills: []
+2026-03-03 15:19:48,783 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-03 15:19:48,783 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/9
+2026-03-03 15:19:48,783 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/10
+2026-03-03 15:19:48,784 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/8
+2026-03-03 15:19:48,784 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:19:48,784 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:19:48,784 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:19:48,784 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/9
+2026-03-03 15:19:48,785 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:20:31,720 | INFO     | main | Shutting down.
+2026-03-03 15:21:36,678 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:21:36,680 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:22:01,068 | INFO     | parser.pdf_parser | pdfplumber returned insufficient text — trying OCR...
+2026-03-03 15:22:01,068 | INFO     | parser.pdf_parser | Falling back to OCR for scanned PDF...
+2026-03-03 15:22:05,069 | INFO     | parser.pdf_parser | OCR page 1: 2253 characters extracted.
+2026-03-03 15:22:05,072 | INFO     | parser.pdf_parser | PDF parsed with OCR: 2253 characters.
+2026-03-03 15:22:05,150 | INFO     | matcher.skill_extractor | Extracted 13 skills: ['aws', 'css', 'django', 'git', 'javascript', 'linux', 'nodejs', 'postgresql', 'python', 'react', 'rest api', 'selenium', 'sql']
+2026-03-03 15:22:05,151 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-03 15:22:05,151 | INFO     | matcher.scoring | Score: 50.0% | Required: 4/5 | Optional: 1/9
+2026-03-03 15:22:05,152 | INFO     | matcher.scoring | Score: 61.11% | Required: 5/6 | Optional: 3/10
+2026-03-03 15:22:05,152 | INFO     | matcher.scoring | Score: 40.91% | Required: 3/6 | Optional: 2/8
+2026-03-03 15:22:05,152 | INFO     | matcher.scoring | Score: 33.9% | Required: 2/5 | Optional: 2/8
+2026-03-03 15:22:05,153 | INFO     | matcher.scoring | Score: 23.73% | Required: 2/5 | Optional: 0/8
+2026-03-03 15:22:05,154 | INFO     | matcher.scoring | Score: 40.68% | Required: 3/5 | Optional: 1/8
+2026-03-03 15:22:05,154 | INFO     | matcher.scoring | Score: 43.64% | Required: 3/4 | Optional: 1/9
+2026-03-03 15:22:05,155 | INFO     | matcher.scoring | Score: 57.63% | Required: 4/5 | Optional: 2/8
+2026-03-03 15:24:18,606 | INFO     | main | Shutting down.
+2026-03-03 15:24:21,336 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:24:21,338 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:24:25,585 | INFO     | main | Shutting down.
+2026-03-03 15:24:28,659 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:24:28,665 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:24:38,254 | INFO     | main | Shutting down.
+2026-03-03 15:28:35,331 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:28:35,333 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:28:35,439 | INFO     | main | Shutting down.
+2026-03-03 15:28:37,705 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:28:37,707 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:28:37,810 | INFO     | main | Shutting down.
+2026-03-03 15:28:40,202 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:28:40,204 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:28:42,153 | INFO     | main | Shutting down.
+2026-03-03 15:28:50,470 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:28:50,471 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:31:04,747 | INFO     | parser.image_parser | Image parsed with OCR: 1759 characters extracted.
+2026-03-03 15:31:04,829 | INFO     | matcher.skill_extractor | Extracted 7 skills: ['agile', 'css', 'git', 'html', 'javascript', 'react', 'vue']
+2026-03-03 15:31:04,829 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-03 15:31:04,829 | INFO     | matcher.scoring | Score: 56.45% | Required: 5/5 | Optional: 0/9
+2026-03-03 15:31:04,830 | INFO     | matcher.scoring | Score: 43.06% | Required: 4/6 | Optional: 1/10
+2026-03-03 15:31:04,830 | INFO     | matcher.scoring | Score: 10.61% | Required: 1/6 | Optional: 0/8
+2026-03-03 15:31:04,830 | INFO     | matcher.scoring | Score: 11.86% | Required: 1/5 | Optional: 0/8
+2026-03-03 15:31:04,830 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-03 15:31:04,830 | INFO     | matcher.scoring | Score: 11.86% | Required: 1/5 | Optional: 0/8
+2026-03-03 15:31:04,831 | INFO     | matcher.scoring | Score: 25.45% | Required: 2/4 | Optional: 0/9
+2026-03-03 15:31:04,831 | INFO     | matcher.scoring | Score: 23.73% | Required: 2/5 | Optional: 0/8
+2026-03-03 15:44:00,463 | INFO     | main | Shutting down.
+2026-03-03 15:44:02,797 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:44:02,799 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:44:02,911 | INFO     | main | Shutting down.
+2026-03-03 15:44:05,186 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:44:05,188 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:48:30,786 | INFO     | main | Shutting down.
+2026-03-03 15:48:34,821 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:48:34,822 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:57:14,658 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:57:14,660 | INFO     | main | Database ready. Server is live.
+2026-03-03 15:57:24,613 | INFO     | main | Shutting down.
+2026-03-03 15:57:38,038 | INFO     | main | Starting up — initializing database...
+2026-03-03 15:57:38,039 | INFO     | main | Database ready. Server is live.
+2026-03-04 14:45:01,040 | INFO     | main | Starting up — initializing database...
+2026-03-04 14:45:01,047 | INFO     | main | Database ready. Server is live.
+2026-03-04 14:48:13,046 | INFO     | parser.image_parser | Image parsed with OCR: 1759 characters extracted.
+2026-03-04 14:48:13,151 | INFO     | matcher.skill_extractor | Extracted 7 skills: ['agile', 'css', 'git', 'html', 'javascript', 'react', 'vue']
+2026-03-04 14:48:13,156 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 14:48:13,156 | INFO     | matcher.scoring | Score: 56.45% | Required: 5/5 | Optional: 0/9
+2026-03-04 14:48:13,157 | INFO     | matcher.scoring | Score: 43.06% | Required: 4/6 | Optional: 1/10
+2026-03-04 14:48:13,157 | INFO     | matcher.scoring | Score: 10.61% | Required: 1/6 | Optional: 0/8
+2026-03-04 14:48:13,157 | INFO     | matcher.scoring | Score: 11.86% | Required: 1/5 | Optional: 0/8
+2026-03-04 14:48:13,157 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/8
+2026-03-04 14:48:13,157 | INFO     | matcher.scoring | Score: 11.86% | Required: 1/5 | Optional: 0/8
+2026-03-04 14:48:13,158 | INFO     | matcher.scoring | Score: 25.45% | Required: 2/4 | Optional: 0/9
+2026-03-04 14:48:13,158 | INFO     | matcher.scoring | Score: 23.73% | Required: 2/5 | Optional: 0/8
+2026-03-04 14:48:52,931 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 3196 characters.
+2026-03-04 14:48:52,948 | INFO     | matcher.skill_extractor | Extracted 23 skills: ['algorithms', 'android', 'css', 'data structures', 'deep learning', 'expressjs', 'git', 'html', 'java', 'javascript', 'jwt', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'oops', 'postman', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-04 14:48:52,949 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 14:48:52,949 | INFO     | matcher.scoring | Score: 61.29% | Required: 5/5 | Optional: 1/9
+2026-03-04 14:48:52,949 | INFO     | matcher.scoring | Score: 75.0% | Required: 6/6 | Optional: 4/10
+2026-03-04 14:48:52,950 | INFO     | matcher.scoring | Score: 42.42% | Required: 4/6 | Optional: 0/8
+2026-03-04 14:48:52,950 | INFO     | matcher.scoring | Score: 28.81% | Required: 2/5 | Optional: 1/8
+2026-03-04 14:48:52,950 | INFO     | matcher.scoring | Score: 45.76% | Required: 3/5 | Optional: 2/8
+2026-03-04 14:48:52,951 | INFO     | matcher.scoring | Score: 52.54% | Required: 4/5 | Optional: 1/8
+2026-03-04 14:48:52,951 | INFO     | matcher.scoring | Score: 49.09% | Required: 3/4 | Optional: 2/9
+2026-03-04 14:48:52,951 | INFO     | matcher.scoring | Score: 74.58% | Required: 5/5 | Optional: 3/8
+2026-03-04 14:51:53,645 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 3196 characters.
+2026-03-04 14:51:53,660 | INFO     | matcher.skill_extractor | Extracted 23 skills: ['algorithms', 'android', 'css', 'data structures', 'deep learning', 'expressjs', 'git', 'html', 'java', 'javascript', 'jwt', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'oops', 'postman', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-04 14:51:53,660 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 14:51:53,661 | INFO     | matcher.scoring | Score: 61.29% | Required: 5/5 | Optional: 1/9
+2026-03-04 14:51:53,661 | INFO     | matcher.scoring | Score: 75.0% | Required: 6/6 | Optional: 4/10
+2026-03-04 14:51:53,662 | INFO     | matcher.scoring | Score: 42.42% | Required: 4/6 | Optional: 0/8
+2026-03-04 14:51:53,662 | INFO     | matcher.scoring | Score: 28.81% | Required: 2/5 | Optional: 1/8
+2026-03-04 14:51:53,663 | INFO     | matcher.scoring | Score: 45.76% | Required: 3/5 | Optional: 2/8
+2026-03-04 14:51:53,663 | INFO     | matcher.scoring | Score: 52.54% | Required: 4/5 | Optional: 1/8
+2026-03-04 14:51:53,663 | INFO     | matcher.scoring | Score: 49.09% | Required: 3/4 | Optional: 2/9
+2026-03-04 14:51:53,664 | INFO     | matcher.scoring | Score: 74.58% | Required: 5/5 | Optional: 3/8
+2026-03-04 14:53:44,295 | INFO     | main | Shutting down.
+2026-03-04 14:57:00,193 | INFO     | main | Starting up — initializing database...
+2026-03-04 14:57:00,194 | INFO     | main | Database ready. Server is live.
+2026-03-04 14:57:08,634 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 2086 characters.
+2026-03-04 14:57:08,664 | INFO     | matcher.skill_extractor | Extracted 16 skills: ['algorithms', 'c', 'c++', 'css', 'data structures', 'expressjs', 'git', 'html', 'java', 'javascript', 'mongodb', 'nodejs', 'postman', 'python', 'react', 'sql']
+2026-03-04 14:57:08,665 | INFO     | matcher.scoring | Score: 46.15% | Required: 3/5 | Optional: 3/10
+2026-03-04 14:57:08,666 | INFO     | matcher.scoring | Score: 61.29% | Required: 5/5 | Optional: 1/9
+2026-03-04 14:57:08,667 | INFO     | matcher.scoring | Score: 70.83% | Required: 6/6 | Optional: 3/10
+2026-03-04 14:57:08,668 | INFO     | matcher.scoring | Score: 31.82% | Required: 3/6 | Optional: 0/8
+2026-03-04 14:57:08,668 | INFO     | matcher.scoring | Score: 16.95% | Required: 1/5 | Optional: 1/8
+2026-03-04 14:57:08,668 | INFO     | matcher.scoring | Score: 23.73% | Required: 2/5 | Optional: 0/8
+2026-03-04 14:57:08,669 | INFO     | matcher.scoring | Score: 35.59% | Required: 3/5 | Optional: 0/8
+2026-03-04 14:57:08,669 | INFO     | matcher.scoring | Score: 30.91% | Required: 2/4 | Optional: 1/9
+2026-03-04 14:57:08,669 | INFO     | matcher.scoring | Score: 57.63% | Required: 4/5 | Optional: 2/8
+2026-03-04 14:58:32,655 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 3314 characters.
+2026-03-04 14:58:32,672 | INFO     | matcher.skill_extractor | Extracted 21 skills: ['algorithms', 'android', 'css', 'data structures', 'deep learning', 'expressjs', 'git', 'html', 'java', 'javascript', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'oops', 'postman', 'python', 'react', 'rest api', 'sql']
+2026-03-04 14:58:32,672 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 14:58:32,673 | INFO     | matcher.scoring | Score: 61.29% | Required: 5/5 | Optional: 1/9
+2026-03-04 14:58:32,673 | INFO     | matcher.scoring | Score: 75.0% | Required: 6/6 | Optional: 4/10
+2026-03-04 14:58:32,674 | INFO     | matcher.scoring | Score: 42.42% | Required: 4/6 | Optional: 0/8
+2026-03-04 14:58:32,674 | INFO     | matcher.scoring | Score: 28.81% | Required: 2/5 | Optional: 1/8
+2026-03-04 14:58:32,674 | INFO     | matcher.scoring | Score: 45.76% | Required: 3/5 | Optional: 2/8
+2026-03-04 14:58:32,675 | INFO     | matcher.scoring | Score: 52.54% | Required: 4/5 | Optional: 1/8
+2026-03-04 14:58:32,675 | INFO     | matcher.scoring | Score: 49.09% | Required: 3/4 | Optional: 2/9
+2026-03-04 14:58:32,675 | INFO     | matcher.scoring | Score: 69.49% | Required: 5/5 | Optional: 2/8
+2026-03-04 15:32:10,819 | INFO     | main | Shutting down.
+2026-03-04 15:32:20,261 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:32:20,263 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:32:27,986 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 3196 characters.
+2026-03-04 15:32:28,008 | INFO     | matcher.skill_extractor | Extracted 23 skills: ['algorithms', 'android', 'css', 'data structures', 'deep learning', 'expressjs', 'git', 'html', 'java', 'javascript', 'jwt', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'oops', 'postman', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-04 15:32:28,009 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 15:32:28,009 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 15:32:28,009 | INFO     | matcher.scoring | Score: 75.0% | Required: 6/6 | Optional: 4/10
+2026-03-04 15:32:28,010 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 15:32:28,010 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 15:32:28,010 | INFO     | matcher.scoring | Score: 44.44% | Required: 4/6 | Optional: 0/7
+2026-03-04 15:32:28,011 | INFO     | matcher.scoring | Score: 72.31% | Required: 5/5 | Optional: 4/10
+2026-03-04 15:32:28,011 | INFO     | matcher.scoring | Score: 72.31% | Required: 5/5 | Optional: 4/10
+2026-03-04 15:32:28,012 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 15:32:28,012 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 15:32:28,012 | INFO     | matcher.scoring | Score: 58.46% | Required: 5/5 | Optional: 1/10
+2026-03-04 15:32:28,012 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 15:32:28,013 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 15:32:28,013 | INFO     | matcher.scoring | Score: 51.72% | Required: 3/4 | Optional: 3/10
+2026-03-04 15:32:28,013 | INFO     | matcher.scoring | Score: 53.45% | Required: 4/4 | Optional: 1/10
+2026-03-04 15:32:28,014 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 15:32:28,014 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 15:32:28,014 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 15:32:28,015 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 15:32:28,015 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 15:32:28,015 | INFO     | matcher.scoring | Score: 47.69% | Required: 4/5 | Optional: 1/10
+2026-03-04 15:32:28,016 | INFO     | matcher.scoring | Score: 56.92% | Required: 4/5 | Optional: 3/10
+2026-03-04 15:36:06,687 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 3196 characters.
+2026-03-04 15:36:06,706 | INFO     | matcher.skill_extractor | Extracted 23 skills: ['algorithms', 'android', 'css', 'data structures', 'deep learning', 'expressjs', 'git', 'html', 'java', 'javascript', 'jwt', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'oops', 'postman', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-04 15:36:06,706 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 15:36:06,707 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 15:36:06,707 | INFO     | matcher.scoring | Score: 75.0% | Required: 6/6 | Optional: 4/10
+2026-03-04 15:36:06,707 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 15:36:06,708 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 15:36:06,708 | INFO     | matcher.scoring | Score: 44.44% | Required: 4/6 | Optional: 0/7
+2026-03-04 15:36:06,708 | INFO     | matcher.scoring | Score: 72.31% | Required: 5/5 | Optional: 4/10
+2026-03-04 15:36:06,709 | INFO     | matcher.scoring | Score: 72.31% | Required: 5/5 | Optional: 4/10
+2026-03-04 15:36:06,709 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 15:36:06,709 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 15:36:06,710 | INFO     | matcher.scoring | Score: 58.46% | Required: 5/5 | Optional: 1/10
+2026-03-04 15:36:06,710 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 15:36:06,710 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 15:36:06,711 | INFO     | matcher.scoring | Score: 51.72% | Required: 3/4 | Optional: 3/10
+2026-03-04 15:36:06,711 | INFO     | matcher.scoring | Score: 53.45% | Required: 4/4 | Optional: 1/10
+2026-03-04 15:36:06,712 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 15:36:06,712 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 15:36:06,712 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 15:36:06,713 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 15:36:06,714 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 15:36:06,714 | INFO     | matcher.scoring | Score: 47.69% | Required: 4/5 | Optional: 1/10
+2026-03-04 15:36:06,714 | INFO     | matcher.scoring | Score: 56.92% | Required: 4/5 | Optional: 3/10
+2026-03-04 15:36:20,275 | INFO     | parser.image_parser | Image parsed with OCR: 2567 characters extracted.
+2026-03-04 15:36:20,297 | INFO     | matcher.skill_extractor | Extracted 5 skills: ['java', 'javascript', 'spring', 'sql', 'typescript']
+2026-03-04 15:36:20,297 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 15:36:20,297 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 15:36:20,298 | INFO     | matcher.scoring | Score: 23.61% | Required: 2/6 | Optional: 1/10
+2026-03-04 15:36:20,298 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 15:36:20,298 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 15:36:20,299 | INFO     | matcher.scoring | Score: 33.33% | Required: 3/6 | Optional: 0/7
+2026-03-04 15:36:20,299 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 15:36:20,299 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 15:36:20,299 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 15:36:20,300 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 15:36:20,300 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 15:36:20,300 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 15:36:20,300 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 15:36:20,301 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 15:36:20,301 | INFO     | matcher.scoring | Score: 17.24% | Required: 1/4 | Optional: 1/10
+2026-03-04 15:36:20,301 | INFO     | matcher.scoring | Score: 5.17% | Required: 0/4 | Optional: 1/10
+2026-03-04 15:36:20,301 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 15:36:20,302 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 15:36:20,302 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 15:36:20,303 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 15:36:20,303 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 15:36:20,303 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 15:51:32,296 | INFO     | main | Shutting down.
+2026-03-04 15:51:34,805 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:51:34,808 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:51:42,680 | INFO     | main | Shutting down.
+2026-03-04 15:51:45,061 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:51:45,063 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:51:45,171 | INFO     | main | Shutting down.
+2026-03-04 15:51:47,596 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:51:47,599 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:53:24,973 | INFO     | main | Shutting down.
+2026-03-04 15:53:27,301 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:53:27,303 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:53:27,412 | INFO     | main | Shutting down.
+2026-03-04 15:53:29,881 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:53:29,883 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:53:29,995 | INFO     | main | Shutting down.
+2026-03-04 15:53:32,313 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:53:32,315 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:55:11,775 | INFO     | main | Shutting down.
+2026-03-04 15:55:14,607 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:55:14,609 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:55:29,090 | INFO     | main | Shutting down.
+2026-03-04 15:55:31,418 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:55:31,421 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:55:31,523 | INFO     | main | Shutting down.
+2026-03-04 15:55:33,743 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:55:33,745 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:57:25,435 | INFO     | parser.image_parser | Image parsed with OCR: 2935 characters extracted.
+2026-03-04 15:57:25,454 | INFO     | matcher.skill_extractor | Extracted 12 skills: ['agile', 'aws', 'azure', 'css', 'django', 'html', 'java', 'postgresql', 'rest api', 'selenium', 'spring', 'sql']
+2026-03-04 15:57:27,760 | INFO     | parser.image_parser | Image parsed with OCR: 2935 characters extracted.
+2026-03-04 15:57:27,772 | INFO     | matcher.skill_extractor | Extracted 12 skills: ['agile', 'aws', 'azure', 'css', 'django', 'html', 'java', 'postgresql', 'rest api', 'selenium', 'spring', 'sql']
+2026-03-04 15:57:35,749 | INFO     | parser.image_parser | Image parsed with OCR: 1759 characters extracted.
+2026-03-04 15:57:35,836 | INFO     | matcher.skill_extractor | Extracted 7 skills: ['agile', 'css', 'git', 'html', 'javascript', 'react', 'vue']
+2026-03-04 15:59:44,626 | INFO     | main | Shutting down.
+2026-03-04 15:59:47,021 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:59:47,023 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:59:47,125 | INFO     | main | Shutting down.
+2026-03-04 15:59:49,622 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:59:49,623 | INFO     | main | Database ready. Server is live.
+2026-03-04 15:59:49,735 | INFO     | main | Shutting down.
+2026-03-04 15:59:51,968 | INFO     | main | Starting up — initializing database...
+2026-03-04 15:59:51,970 | INFO     | main | Database ready. Server is live.
+2026-03-04 16:00:04,922 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 3196 characters.
+2026-03-04 16:00:04,949 | INFO     | matcher.skill_extractor | Extracted 23 skills: ['algorithms', 'android', 'css', 'data structures', 'deep learning', 'expressjs', 'git', 'html', 'java', 'javascript', 'jwt', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'oops', 'postman', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-04 16:00:04,954 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 16:00:04,957 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 16:00:04,959 | INFO     | matcher.scoring | Score: 75.0% | Required: 6/6 | Optional: 4/10
+2026-03-04 16:00:04,960 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 16:00:04,962 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 16:00:04,963 | INFO     | matcher.scoring | Score: 44.44% | Required: 4/6 | Optional: 0/7
+2026-03-04 16:00:04,965 | INFO     | matcher.scoring | Score: 72.31% | Required: 5/5 | Optional: 4/10
+2026-03-04 16:00:04,968 | INFO     | matcher.scoring | Score: 72.31% | Required: 5/5 | Optional: 4/10
+2026-03-04 16:00:04,969 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:00:04,972 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:00:04,973 | INFO     | matcher.scoring | Score: 58.46% | Required: 5/5 | Optional: 1/10
+2026-03-04 16:00:04,975 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 16:00:04,976 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-04 16:00:04,978 | INFO     | matcher.scoring | Score: 51.72% | Required: 3/4 | Optional: 3/10
+2026-03-04 16:00:04,979 | INFO     | matcher.scoring | Score: 53.45% | Required: 4/4 | Optional: 1/10
+2026-03-04 16:00:04,981 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:00:04,981 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 16:00:04,983 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 16:00:04,984 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:00:04,984 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:00:04,986 | INFO     | matcher.scoring | Score: 47.69% | Required: 4/5 | Optional: 1/10
+2026-03-04 16:00:04,987 | INFO     | matcher.scoring | Score: 56.92% | Required: 4/5 | Optional: 3/10
+2026-03-04 16:00:12,078 | INFO     | parser.image_parser | Image parsed with OCR: 1759 characters extracted.
+2026-03-04 16:00:12,146 | INFO     | matcher.skill_extractor | Extracted 7 skills: ['agile', 'css', 'git', 'html', 'javascript', 'react', 'vue']
+2026-03-04 16:00:12,147 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,148 | INFO     | matcher.scoring | Score: 58.46% | Required: 5/5 | Optional: 1/10
+2026-03-04 16:00:12,149 | INFO     | matcher.scoring | Score: 43.06% | Required: 4/6 | Optional: 1/10
+2026-03-04 16:00:12,149 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,150 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,150 | INFO     | matcher.scoring | Score: 11.11% | Required: 1/6 | Optional: 0/7
+2026-03-04 16:00:12,151 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:00:12,152 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:00:12,152 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,153 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,153 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,154 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,154 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,155 | INFO     | matcher.scoring | Score: 24.14% | Required: 2/4 | Optional: 0/10
+2026-03-04 16:00:12,155 | INFO     | matcher.scoring | Score: 12.07% | Required: 1/4 | Optional: 0/10
+2026-03-04 16:00:12,156 | INFO     | matcher.scoring | Score: 12.07% | Required: 1/4 | Optional: 0/10
+2026-03-04 16:00:12,156 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,157 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,158 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,159 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,159 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:00:12,160 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:00:27,957 | INFO     | parser.image_parser | Image parsed with OCR: 23 characters extracted.
+2026-03-04 16:00:27,966 | INFO     | matcher.skill_extractor | Extracted 0 skills: []
+2026-03-04 16:00:27,966 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,967 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,967 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/10
+2026-03-04 16:00:27,967 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,967 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,968 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/7
+2026-03-04 16:00:27,968 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,968 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,968 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,968 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,969 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,969 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,969 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,969 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/10
+2026-03-04 16:00:27,969 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/10
+2026-03-04 16:00:27,969 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/10
+2026-03-04 16:00:27,970 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,970 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,970 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,970 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,970 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:27,970 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:00:35,642 | INFO     | parser.image_parser | Image parsed with OCR: 2935 characters extracted.
+2026-03-04 16:00:35,661 | INFO     | matcher.skill_extractor | Extracted 12 skills: ['agile', 'aws', 'azure', 'css', 'django', 'html', 'java', 'postgresql', 'rest api', 'selenium', 'spring', 'sql']
+2026-03-04 16:00:35,662 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:00:35,663 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:00:35,664 | INFO     | matcher.scoring | Score: 37.5% | Required: 3/6 | Optional: 2/10
+2026-03-04 16:00:35,665 | INFO     | matcher.scoring | Score: 35.38% | Required: 2/5 | Optional: 3/10
+2026-03-04 16:00:35,668 | INFO     | matcher.scoring | Score: 41.54% | Required: 3/5 | Optional: 2/10
+2026-03-04 16:00:35,669 | INFO     | matcher.scoring | Score: 49.21% | Required: 4/6 | Optional: 1/7
+2026-03-04 16:00:35,670 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:00:35,670 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:00:35,671 | INFO     | matcher.scoring | Score: 9.23% | Required: 0/5 | Optional: 2/10
+2026-03-04 16:00:35,672 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:00:35,672 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:00:35,673 | INFO     | matcher.scoring | Score: 4.62% | Required: 0/5 | Optional: 1/10
+2026-03-04 16:00:35,673 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:00:35,674 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:00:35,675 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:00:35,676 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:00:35,677 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:00:35,678 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:00:35,679 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:00:35,680 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:00:35,681 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:00:35,682 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:01:05,835 | INFO     | parser.image_parser | Image parsed with OCR: 2738 characters extracted.
+2026-03-04 16:01:05,852 | INFO     | matcher.skill_extractor | Extracted 11 skills: ['angular', 'django', 'flask', 'java', 'javascript', 'jenkins', 'nodejs', 'python', 'selenium', 'spring', 'sql']
+2026-03-04 16:01:05,853 | INFO     | matcher.scoring | Score: 28.31% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:01:05,854 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:05,855 | INFO     | matcher.scoring | Score: 29.17% | Required: 3/6 | Optional: 0/10
+2026-03-04 16:01:05,857 | INFO     | matcher.scoring | Score: 32.92% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:01:05,858 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:01:05,859 | INFO     | matcher.scoring | Score: 33.33% | Required: 3/6 | Optional: 0/7
+2026-03-04 16:01:05,859 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:01:05,861 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:01:05,862 | INFO     | matcher.scoring | Score: 10.15% | Required: 0/5 | Optional: 2/10
+2026-03-04 16:01:05,863 | INFO     | matcher.scoring | Score: 23.69% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:01:05,863 | INFO     | matcher.scoring | Score: 23.69% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:01:05,864 | INFO     | matcher.scoring | Score: 12.92% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:05,864 | INFO     | matcher.scoring | Score: 12.92% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:05,865 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:01:05,866 | INFO     | matcher.scoring | Score: 17.24% | Required: 1/4 | Optional: 1/10
+2026-03-04 16:01:05,866 | INFO     | matcher.scoring | Score: 5.17% | Required: 0/4 | Optional: 1/10
+2026-03-04 16:01:05,867 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:05,867 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:05,868 | INFO     | matcher.scoring | Score: 23.69% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:01:05,869 | INFO     | matcher.scoring | Score: 10.15% | Required: 0/5 | Optional: 2/10
+2026-03-04 16:01:05,869 | INFO     | matcher.scoring | Score: 23.69% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:01:05,870 | INFO     | matcher.scoring | Score: 31.69% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:01:20,826 | INFO     | parser.image_parser | Image parsed with OCR: 2491 characters extracted.
+2026-03-04 16:01:20,839 | INFO     | matcher.skill_extractor | Extracted 2 skills: ['python', 'react']
+2026-03-04 16:01:20,839 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,840 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,840 | INFO     | matcher.scoring | Score: 4.17% | Required: 0/6 | Optional: 1/10
+2026-03-04 16:01:20,841 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,841 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:01:20,841 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/6 | Optional: 0/7
+2026-03-04 16:01:20,842 | INFO     | matcher.scoring | Score: 4.62% | Required: 0/5 | Optional: 1/10
+2026-03-04 16:01:20,842 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:01:20,842 | INFO     | matcher.scoring | Score: 4.62% | Required: 0/5 | Optional: 1/10
+2026-03-04 16:01:20,843 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,843 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,844 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,844 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,844 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/10
+2026-03-04 16:01:20,845 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/10
+2026-03-04 16:01:20,845 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/4 | Optional: 0/10
+2026-03-04 16:01:20,845 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:01:20,845 | INFO     | matcher.scoring | Score: 0.0% | Required: 0/5 | Optional: 0/10
+2026-03-04 16:01:20,846 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,846 | INFO     | matcher.scoring | Score: 4.62% | Required: 0/5 | Optional: 1/10
+2026-03-04 16:01:20,847 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:01:20,847 | INFO     | matcher.scoring | Score: 9.23% | Required: 0/5 | Optional: 2/10
+2026-03-04 16:02:01,430 | INFO     | parser.image_parser | Image parsed with OCR: 2935 characters extracted.
+2026-03-04 16:02:01,444 | INFO     | matcher.skill_extractor | Extracted 12 skills: ['agile', 'aws', 'azure', 'css', 'django', 'html', 'java', 'postgresql', 'rest api', 'selenium', 'spring', 'sql']
+2026-03-04 16:02:01,446 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:02:01,447 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:02:01,448 | INFO     | matcher.scoring | Score: 37.5% | Required: 3/6 | Optional: 2/10
+2026-03-04 16:02:01,450 | INFO     | matcher.scoring | Score: 35.38% | Required: 2/5 | Optional: 3/10
+2026-03-04 16:02:01,453 | INFO     | matcher.scoring | Score: 41.54% | Required: 3/5 | Optional: 2/10
+2026-03-04 16:02:01,456 | INFO     | matcher.scoring | Score: 49.21% | Required: 4/6 | Optional: 1/7
+2026-03-04 16:02:01,458 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:02:01,459 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:02:01,460 | INFO     | matcher.scoring | Score: 9.23% | Required: 0/5 | Optional: 2/10
+2026-03-04 16:02:01,461 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:02:01,462 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:02:01,462 | INFO     | matcher.scoring | Score: 4.62% | Required: 0/5 | Optional: 1/10
+2026-03-04 16:02:01,463 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:02:01,464 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:02:01,465 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:02:01,466 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:02:01,467 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:02:01,468 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:02:01,468 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:02:01,469 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:02:01,470 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:02:01,470 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:02:39,544 | INFO     | parser.image_parser | Image parsed with OCR: 2935 characters extracted.
+2026-03-04 16:02:39,555 | INFO     | matcher.skill_extractor | Extracted 12 skills: ['agile', 'aws', 'azure', 'css', 'django', 'html', 'java', 'postgresql', 'rest api', 'selenium', 'spring', 'sql']
+2026-03-04 16:02:39,556 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:02:39,557 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:02:39,559 | INFO     | matcher.scoring | Score: 37.5% | Required: 3/6 | Optional: 2/10
+2026-03-04 16:02:39,562 | INFO     | matcher.scoring | Score: 35.38% | Required: 2/5 | Optional: 3/10
+2026-03-04 16:02:39,563 | INFO     | matcher.scoring | Score: 41.54% | Required: 3/5 | Optional: 2/10
+2026-03-04 16:02:39,564 | INFO     | matcher.scoring | Score: 49.21% | Required: 4/6 | Optional: 1/7
+2026-03-04 16:02:39,566 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:02:39,568 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:02:39,569 | INFO     | matcher.scoring | Score: 9.23% | Required: 0/5 | Optional: 2/10
+2026-03-04 16:02:39,570 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:02:39,571 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:02:39,572 | INFO     | matcher.scoring | Score: 4.62% | Required: 0/5 | Optional: 1/10
+2026-03-04 16:02:39,573 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:02:39,574 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:02:39,575 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:02:39,576 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:02:39,577 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:02:39,578 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:02:39,579 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:02:39,580 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:02:39,580 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:02:39,582 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:03:18,622 | INFO     | parser.image_parser | Image parsed with OCR: 2935 characters extracted.
+2026-03-04 16:03:18,640 | INFO     | matcher.skill_extractor | Extracted 12 skills: ['agile', 'aws', 'azure', 'css', 'django', 'html', 'java', 'postgresql', 'rest api', 'selenium', 'spring', 'sql']
+2026-03-04 16:03:18,641 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:03:18,642 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:03:18,643 | INFO     | matcher.scoring | Score: 37.5% | Required: 3/6 | Optional: 2/10
+2026-03-04 16:03:18,644 | INFO     | matcher.scoring | Score: 35.38% | Required: 2/5 | Optional: 3/10
+2026-03-04 16:03:18,646 | INFO     | matcher.scoring | Score: 41.54% | Required: 3/5 | Optional: 2/10
+2026-03-04 16:03:18,647 | INFO     | matcher.scoring | Score: 49.21% | Required: 4/6 | Optional: 1/7
+2026-03-04 16:03:18,648 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:03:18,649 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:03:18,650 | INFO     | matcher.scoring | Score: 9.23% | Required: 0/5 | Optional: 2/10
+2026-03-04 16:03:18,650 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:03:18,651 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:03:18,652 | INFO     | matcher.scoring | Score: 4.62% | Required: 0/5 | Optional: 1/10
+2026-03-04 16:03:18,653 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:03:18,654 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:03:18,654 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:03:18,655 | INFO     | matcher.scoring | Score: 22.41% | Required: 1/4 | Optional: 2/10
+2026-03-04 16:03:18,656 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:03:18,657 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:03:18,658 | INFO     | matcher.scoring | Score: 20.0% | Required: 1/5 | Optional: 2/10
+2026-03-04 16:03:18,659 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:03:18,659 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-04 16:03:18,660 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:08:31,295 | INFO     | parser.pdf_parser | pdfplumber returned insufficient text — trying OCR...
+2026-03-04 16:08:31,295 | INFO     | parser.pdf_parser | Falling back to OCR for scanned PDF...
+2026-03-04 16:08:34,736 | INFO     | parser.pdf_parser | OCR page 1: 2253 characters extracted.
+2026-03-04 16:08:34,737 | INFO     | parser.pdf_parser | PDF parsed with OCR: 2253 characters.
+2026-03-04 16:08:34,796 | INFO     | matcher.skill_extractor | Extracted 13 skills: ['aws', 'css', 'django', 'git', 'javascript', 'linux', 'nodejs', 'postgresql', 'python', 'react', 'rest api', 'selenium', 'sql']
+2026-03-04 16:08:34,797 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 16:08:34,798 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 16:08:34,799 | INFO     | matcher.scoring | Score: 61.11% | Required: 5/6 | Optional: 3/10
+2026-03-04 16:08:34,800 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 16:08:34,801 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:08:34,802 | INFO     | matcher.scoring | Score: 38.1% | Required: 3/6 | Optional: 1/7
+2026-03-04 16:08:34,803 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:08:34,804 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:08:34,804 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:08:34,805 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:08:34,806 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:08:34,807 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:08:34,807 | INFO     | matcher.scoring | Score: 41.54% | Required: 3/5 | Optional: 2/10
+2026-03-04 16:08:34,808 | INFO     | matcher.scoring | Score: 51.72% | Required: 3/4 | Optional: 3/10
+2026-03-04 16:08:34,810 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:08:34,811 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:08:34,812 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:08:34,813 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:08:34,813 | INFO     | matcher.scoring | Score: 41.54% | Required: 3/5 | Optional: 2/10
+2026-03-04 16:08:34,814 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:08:34,816 | INFO     | matcher.scoring | Score: 47.69% | Required: 4/5 | Optional: 1/10
+2026-03-04 16:08:34,817 | INFO     | matcher.scoring | Score: 61.54% | Required: 4/5 | Optional: 4/10
+2026-03-04 16:09:45,051 | INFO     | main | Shutting down.
+2026-03-04 16:09:50,571 | INFO     | main | Starting up — initializing database...
+2026-03-04 16:09:50,573 | INFO     | main | Database ready. Server is live.
+2026-03-04 16:13:25,794 | INFO     | main | Shutting down.
+2026-03-04 16:16:51,847 | INFO     | main | Starting up — initializing database...
+2026-03-04 16:16:51,848 | INFO     | main | Database ready. Server is live.
+2026-03-04 16:18:08,827 | INFO     | parser.pdf_parser | pdfplumber returned insufficient text — trying OCR...
+2026-03-04 16:18:08,827 | INFO     | parser.pdf_parser | Falling back to OCR for scanned PDF...
+2026-03-04 16:18:11,367 | INFO     | parser.pdf_parser | OCR page 1: 2253 characters extracted.
+2026-03-04 16:18:11,369 | INFO     | parser.pdf_parser | PDF parsed with OCR: 2253 characters.
+2026-03-04 16:18:11,430 | INFO     | matcher.skill_extractor | Extracted 13 skills: ['aws', 'css', 'django', 'git', 'javascript', 'linux', 'nodejs', 'postgresql', 'python', 'react', 'rest api', 'selenium', 'sql']
+2026-03-04 16:18:11,433 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 16:18:11,435 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-04 16:18:11,436 | INFO     | matcher.scoring | Score: 61.11% | Required: 5/6 | Optional: 3/10
+2026-03-04 16:18:11,438 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-04 16:18:11,439 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:18:11,439 | INFO     | matcher.scoring | Score: 38.1% | Required: 3/6 | Optional: 1/7
+2026-03-04 16:18:11,440 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:18:11,441 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:18:11,442 | INFO     | matcher.scoring | Score: 30.77% | Required: 2/5 | Optional: 2/10
+2026-03-04 16:18:11,443 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:18:11,444 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:18:11,444 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:18:11,445 | INFO     | matcher.scoring | Score: 41.54% | Required: 3/5 | Optional: 2/10
+2026-03-04 16:18:11,446 | INFO     | matcher.scoring | Score: 51.72% | Required: 3/4 | Optional: 3/10
+2026-03-04 16:18:11,447 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:18:11,448 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-04 16:18:11,448 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:18:11,449 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:18:11,450 | INFO     | matcher.scoring | Score: 41.54% | Required: 3/5 | Optional: 2/10
+2026-03-04 16:18:11,451 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-04 16:18:11,452 | INFO     | matcher.scoring | Score: 47.69% | Required: 4/5 | Optional: 1/10
+2026-03-04 16:18:11,453 | INFO     | matcher.scoring | Score: 61.54% | Required: 4/5 | Optional: 4/10
+2026-03-04 16:20:22,745 | INFO     | parser.image_parser | Image parsed with OCR: 1759 characters extracted.
+2026-03-04 16:20:22,815 | INFO     | matcher.skill_extractor | Extracted 7 skills: ['agile', 'css', 'git', 'html', 'javascript', 'react', 'vue']
+2026-03-04 16:20:22,816 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,817 | INFO     | matcher.scoring | Score: 58.46% | Required: 5/5 | Optional: 1/10
+2026-03-04 16:20:22,818 | INFO     | matcher.scoring | Score: 43.06% | Required: 4/6 | Optional: 1/10
+2026-03-04 16:20:22,819 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,819 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,819 | INFO     | matcher.scoring | Score: 11.11% | Required: 1/6 | Optional: 0/7
+2026-03-04 16:20:22,820 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:20:22,820 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:20:22,821 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,821 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,821 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,822 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,822 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,823 | INFO     | matcher.scoring | Score: 24.14% | Required: 2/4 | Optional: 0/10
+2026-03-04 16:20:22,823 | INFO     | matcher.scoring | Score: 12.07% | Required: 1/4 | Optional: 0/10
+2026-03-04 16:20:22,823 | INFO     | matcher.scoring | Score: 12.07% | Required: 1/4 | Optional: 0/10
+2026-03-04 16:20:22,824 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,824 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,824 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,825 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,825 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:20:22,826 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:26:09,341 | INFO     | parser.image_parser | Image parsed with OCR: 1759 characters extracted.
+2026-03-04 16:26:09,388 | INFO     | matcher.skill_extractor | Extracted 7 skills: ['agile', 'css', 'git', 'html', 'javascript', 'react', 'vue']
+2026-03-04 16:26:09,388 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,389 | INFO     | matcher.scoring | Score: 58.46% | Required: 5/5 | Optional: 1/10
+2026-03-04 16:26:09,390 | INFO     | matcher.scoring | Score: 43.06% | Required: 4/6 | Optional: 1/10
+2026-03-04 16:26:09,391 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,391 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,392 | INFO     | matcher.scoring | Score: 11.11% | Required: 1/6 | Optional: 0/7
+2026-03-04 16:26:09,393 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:26:09,394 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:26:09,394 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,395 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,395 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,396 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,396 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,397 | INFO     | matcher.scoring | Score: 24.14% | Required: 2/4 | Optional: 0/10
+2026-03-04 16:26:09,398 | INFO     | matcher.scoring | Score: 12.07% | Required: 1/4 | Optional: 0/10
+2026-03-04 16:26:09,398 | INFO     | matcher.scoring | Score: 12.07% | Required: 1/4 | Optional: 0/10
+2026-03-04 16:26:09,398 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,399 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,399 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,400 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,400 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:09,401 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 16:26:28,095 | INFO     | parser.image_parser | Image parsed with OCR: 1759 characters extracted.
+2026-03-04 16:26:28,151 | INFO     | matcher.skill_extractor | Extracted 7 skills: ['agile', 'css', 'git', 'html', 'javascript', 'react', 'vue']
+2026-03-04 16:26:28,152 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,153 | INFO     | matcher.scoring | Score: 58.46% | Required: 5/5 | Optional: 1/10
+2026-03-04 16:26:28,153 | INFO     | matcher.scoring | Score: 43.06% | Required: 4/6 | Optional: 1/10
+2026-03-04 16:26:28,154 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,154 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,154 | INFO     | matcher.scoring | Score: 11.11% | Required: 1/6 | Optional: 0/7
+2026-03-04 16:26:28,155 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-04 16:26:28,155 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-04 16:26:28,156 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,156 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,157 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,157 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,157 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,158 | INFO     | matcher.scoring | Score: 24.14% | Required: 2/4 | Optional: 0/10
+2026-03-04 16:26:28,158 | INFO     | matcher.scoring | Score: 12.07% | Required: 1/4 | Optional: 0/10
+2026-03-04 16:26:28,159 | INFO     | matcher.scoring | Score: 12.07% | Required: 1/4 | Optional: 0/10
+2026-03-04 16:26:28,159 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,160 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,160 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,160 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,161 | INFO     | matcher.scoring | Score: 10.77% | Required: 1/5 | Optional: 0/10
+2026-03-04 16:26:28,161 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-04 17:09:38,537 | INFO     | main | Shutting down.
+2026-03-05 13:42:50,303 | INFO     | main | Starting up — initializing database...
+2026-03-05 13:42:50,318 | INFO     | main | Database ready. Server is live.
+2026-03-05 13:43:26,000 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 2086 characters.
+2026-03-05 13:43:26,127 | INFO     | matcher.skill_extractor | Extracted 16 skills: ['algorithms', 'c', 'c++', 'css', 'data structures', 'expressjs', 'git', 'html', 'java', 'javascript', 'mongodb', 'nodejs', 'postman', 'python', 'react', 'sql']
+2026-03-05 13:43:26,150 | INFO     | matcher.scoring | Score: 46.15% | Required: 3/5 | Optional: 3/10
+2026-03-05 13:43:26,164 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-05 13:43:26,170 | INFO     | matcher.scoring | Score: 70.83% | Required: 6/6 | Optional: 3/10
+2026-03-05 13:43:26,174 | INFO     | matcher.scoring | Score: 32.31% | Required: 3/5 | Optional: 0/10
+2026-03-05 13:43:26,180 | INFO     | matcher.scoring | Score: 32.31% | Required: 3/5 | Optional: 0/10
+2026-03-05 13:43:26,184 | INFO     | matcher.scoring | Score: 33.33% | Required: 3/6 | Optional: 0/7
+2026-03-05 13:43:26,190 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-05 13:43:26,194 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-05 13:43:26,197 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-05 13:43:26,200 | INFO     | matcher.scoring | Score: 32.31% | Required: 3/5 | Optional: 0/10
+2026-03-05 13:43:26,203 | INFO     | matcher.scoring | Score: 32.31% | Required: 3/5 | Optional: 0/10
+2026-03-05 13:43:26,206 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-05 13:43:26,209 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-05 13:43:26,215 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-05 13:43:26,218 | INFO     | matcher.scoring | Score: 29.31% | Required: 2/4 | Optional: 1/10
+2026-03-05 13:43:26,221 | INFO     | matcher.scoring | Score: 17.24% | Required: 1/4 | Optional: 1/10
+2026-03-05 13:43:26,223 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-05 13:43:26,227 | INFO     | matcher.scoring | Score: 21.54% | Required: 2/5 | Optional: 0/10
+2026-03-05 13:43:26,230 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-05 13:43:26,233 | INFO     | matcher.scoring | Score: 15.38% | Required: 1/5 | Optional: 1/10
+2026-03-05 13:43:26,237 | INFO     | matcher.scoring | Score: 32.31% | Required: 3/5 | Optional: 0/10
+2026-03-05 13:43:26,241 | INFO     | matcher.scoring | Score: 46.15% | Required: 3/5 | Optional: 3/10
+2026-03-05 14:11:11,256 | INFO     | main | Starting up — initializing database...
+2026-03-05 14:11:11,268 | INFO     | main | Database ready. Server is live.
+2026-03-05 14:11:39,597 | INFO     | parser.pdf_parser | PDF parsed with pdfplumber: 3196 characters.
+2026-03-05 14:11:39,711 | INFO     | matcher.skill_extractor | Extracted 23 skills: ['algorithms', 'android', 'css', 'data structures', 'deep learning', 'expressjs', 'git', 'html', 'java', 'javascript', 'jwt', 'linux', 'machine learning', 'mongodb', 'nlp', 'nodejs', 'oops', 'postman', 'python', 'react', 'rest api', 'socketio', 'sql']
+2026-03-05 14:11:39,738 | INFO     | matcher.scoring | Score: 67.69% | Required: 5/5 | Optional: 3/10
+2026-03-05 14:11:39,749 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-05 14:11:39,759 | INFO     | matcher.scoring | Score: 75.0% | Required: 6/6 | Optional: 4/10
+2026-03-05 14:11:39,764 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-05 14:11:39,771 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-05 14:11:39,776 | INFO     | matcher.scoring | Score: 44.44% | Required: 4/6 | Optional: 0/7
+2026-03-05 14:11:39,784 | INFO     | matcher.scoring | Score: 72.31% | Required: 5/5 | Optional: 4/10
+2026-03-05 14:11:39,796 | INFO     | matcher.scoring | Score: 72.31% | Required: 5/5 | Optional: 4/10
+2026-03-05 14:11:39,799 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-05 14:11:39,809 | INFO     | matcher.scoring | Score: 52.31% | Required: 4/5 | Optional: 2/10
+2026-03-05 14:11:39,815 | INFO     | matcher.scoring | Score: 58.46% | Required: 5/5 | Optional: 1/10
+2026-03-05 14:11:39,820 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-05 14:11:39,825 | INFO     | matcher.scoring | Score: 53.85% | Required: 5/5 | Optional: 0/10
+2026-03-05 14:11:39,834 | INFO     | matcher.scoring | Score: 51.72% | Required: 3/4 | Optional: 3/10
+2026-03-05 14:11:39,839 | INFO     | matcher.scoring | Score: 53.45% | Required: 4/4 | Optional: 1/10
+2026-03-05 14:11:39,843 | INFO     | matcher.scoring | Score: 34.48% | Required: 2/4 | Optional: 2/10
+2026-03-05 14:11:39,848 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-05 14:11:39,852 | INFO     | matcher.scoring | Score: 43.08% | Required: 4/5 | Optional: 0/10
+2026-03-05 14:11:39,857 | INFO     | matcher.scoring | Score: 36.92% | Required: 3/5 | Optional: 1/10
+2026-03-05 14:11:39,860 | INFO     | matcher.scoring | Score: 26.15% | Required: 2/5 | Optional: 1/10
+2026-03-05 14:11:39,867 | INFO     | matcher.scoring | Score: 47.69% | Required: 4/5 | Optional: 1/10
+2026-03-05 14:11:39,874 | INFO     | matcher.scoring | Score: 56.92% | Required: 4/5 | Optional: 3/10
+2026-03-05 14:11:53,876 | INFO     | main | Shutting down.
