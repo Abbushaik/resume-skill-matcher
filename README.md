@@ -26,26 +26,28 @@ Frontend:
 - Role ranking system
 
 ## Project Structure
+
+```
 resume-skill-matcher/
 │
 ├── backend/
-│ ├── api/
-│ ├── matcher/
-│ ├── parser/
-│ ├── data/
-│ ├── tests/
-│ ├── main.py
-│ ├── database.py
-│ └── requirements.txt
+│   ├── api/
+│   ├── matcher/
+│   ├── parser/
+│   ├── data/
+│   ├── tests/
+│   ├── main.py
+│   ├── database.py
+│   └── requirements.txt
 │
 ├── frontend/
-│ ├── src/
-│ ├── public/
-│ ├── package.json
-│ └── vite.config.js
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── vite.config.js
 │
 └── README.md
-
+```
 
 ## Run Backend
     cd backend
