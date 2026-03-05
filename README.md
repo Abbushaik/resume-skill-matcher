@@ -27,9 +27,9 @@ Frontend:
 
 ## Project Structure
 resume-skill-matcher/
-    ├ backend
-    ├ frontend
-    └ README.md
+├ backend
+├ frontend
+└ README.md
 
 
 ## Run Backend
